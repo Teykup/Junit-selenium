@@ -189,12 +189,3 @@ To stay updated with the latest features and product add-ons, visit [Changelog](
 * 3000'den fazla masaüstü ve mobil tarayıcı, tarayıcı sürümü ve işletim sisteminde Çevrimiçi Erişilebilirlik Testi.
 * 53'ten fazla ülkede web ve mobil uygulamaların coğrafi konum testi.
 * LT Tarayıcı - önceden yüklenmiş 50'den fazla mobil cihaz, tablet, masaüstü ve dizüstü bilgisayar görüntü alanında yanıt testi için
-
-    
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register)
-
-      
-## We are here to help you :headphones:
-
-* Got a query? we are available 24x7 to help. [Contact Us](mailto:support@lambdatest.com)
-* For more info, visit - [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=junit-selenium-sample)
