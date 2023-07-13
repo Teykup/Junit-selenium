@@ -1,6 +1,6 @@
 # LambdaTest'te JUnit ile Selenium Testlerini Çalıştırma
 
-https://github.com/Teykup/Junit-selenium/blob/main/junit-selenium/junit-selenium-sample-master/LambdaTest%20Automation%20-%20Google%20Chrome%202023-07-13%2020-39-08.mp4
+![](https://github.com/Teykup/Junit-selenium/blob/main/junit-selenium/junit-selenium-sample-master/LambdaTest%20Automation%20-%20Google%20Chrome%202023-07-13%2020-39-08.mp4)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teykinaycerkezoglu/" target="_bank">Linkedin</a>
