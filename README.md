@@ -12,7 +12,6 @@
 
 *Java otomasyon testi betiklerinizi LambdaTest platformunda yapılandırmak ve çalıştırmak için JUnit çerçevesini nasıl kullanacağınızı öğrenin*
 
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=junit-selenium-sample)
 
 
 ## İçindekiler
